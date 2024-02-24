@@ -1,0 +1,170 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AppBarbearia
+</name>
+</assembly>
+<members>
+<member name="P:AppBarbearia.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources._Next">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.Add">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.Back">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.Back_Ground">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.Back_GroundDelivery">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.BackGroundDelivery">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.backgroundTelas">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.beat_heart_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.Busca_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.cancelar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.controle_usuarios">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.Delete">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.desfazer_color">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.dinheiro_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.editar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.exit_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.exit_icon3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.exit_vermelho">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.folder_open">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.gorda">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.home_preta">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.Imprime">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.Info">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.magra">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.muito_gorda">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.muito_magra">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.muito_muito_gorda">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.muito_muito_muito_gorda">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.normal">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.ok_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.ok_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.Print">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.Save">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.Search">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppBarbearia.My.Resources.Resources.visualizar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:AppBarbearia.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:AppBarbearia.PrintReportSample.ReportPrintDocument">
+	<summary>
+ The ReportPrintDocument will print all of the pages of a ServerReport or LocalReport.
+ The pages are rendered when the print document is constructed.  Once constructed,
+ call Print() on this class to begin printing.
+ </summary>
+</member>
+</members>
+</doc>
